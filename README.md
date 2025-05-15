@@ -1,1 +1,2 @@
 # Netflix-Youtube-Channel-Analysis
+This project involves analyzing the YouTube performance of Netflix India using collected channel metadata. The objective is to identify key trends, patterns, and strategies that contribute to the channel's success. As part of the Social Media Analytics Team at AtliQ, the goal is to extract actionable insights that can help improve video content strategies for one of our clients.
